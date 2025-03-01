@@ -9,8 +9,7 @@
 
 
   [![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
-   https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.json
-  https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2FNe-haBhatt%2FNe-haBhatt.json%3Fcolor%3Dpink
+
 
 <!--
 **Ne-haBhatt/Ne-haBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
