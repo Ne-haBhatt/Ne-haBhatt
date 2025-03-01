@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
@@ -8,7 +8,6 @@
 </div>
 
 
- # [![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
 
 
 <!--
