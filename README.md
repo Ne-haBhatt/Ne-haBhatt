@@ -4,6 +4,10 @@
 
 Profile Views:[![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
 
+<div>
+<p> <img src="https://komarev.com/ghpvc/?username=Ne-haBhatt&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Ne-haBhatt" /> </p>
+
+</div>
 
 <!--
 **Ne-haBhatt/Ne-haBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
