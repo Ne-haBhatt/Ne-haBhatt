@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-Profile Views:  [![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
+Profile Views:[![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
 
 
 <!--
