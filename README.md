@@ -2,8 +2,6 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=header"/>
 
-Profile Views:[![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
-
 <div>
 <p> <img src="https://komarev.com/ghpvc/?username=Ne-haBhatt&label=Profile%20views&color=0e75b6&style=flat&abbreviated=true" alt="Ne-haBhatt" /> </p>
 
