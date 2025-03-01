@@ -8,7 +8,7 @@
 </div>
 
 
-  [![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
+ # [![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square&show=unique)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
 
 
 <!--
