@@ -1,4 +1,6 @@
 ## Hi there 👋
+  
+[![HitCount](https://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt.svg?style=flat-square)](http://hits.dwyl.com/Ne-haBhatt/Ne-haBhatt)
 
 <!--
 **Ne-haBhatt/Ne-haBhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
