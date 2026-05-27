@@ -11,12 +11,7 @@
 
 <table align="" class="table table-dark">
   <tr bg-dark>
-    <td align="center" widht=90>
-        <a href="https://www.linkedin.com/in/neha-b-3b7006217/" target="_blank">
-            <img src="https://skillicons.dev/icons?i=linkedin" />
-        </a>
-      <br>Linkedin
-    </td>
+   
     <td align="center" widht=90>
         <a href="https://medium.com/@nehabhatt801" target="_blank">
             <img src="https://skillicons.dev/icons?i=medium" />
