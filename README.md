@@ -9,18 +9,6 @@
 
 <h1><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="90px" style="max-width: 100%; user-select: auto;">Let's Connect! </h1>
 
-<table align="" class="table table-dark">
-  <tr bg-dark>
-        <a href="https://medium.com/@nehabhatt801" target="_blank">
-            <img src="https://skillicons.dev/icons?i=medium" />
-        </a>
-        <br>Medium
-    </td>
-  </tr>
-</table>
-
-
-
  <h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="53" height="53" align="center" />GitHub Stats </h1>
  
 
